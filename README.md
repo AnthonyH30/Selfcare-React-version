@@ -6,10 +6,10 @@ Technologies
 <img src="https://cdn.discordapp.com/attachments/334770078069293056/1011339928069742602/selfcare-pronto.png" alt="imagem do projeto em mockup">
 
 ## How to use:
-git clone https://github.com/AnthonyH30/Selfcare-React-version.git
-npm install
-code .
-npm start
+git clone https://github.com/AnthonyH30/Selfcare-React-version.git <br/>
+npm install <br/>
+code . <br/>
+npm start <br/>
 
 ## Online Page: <a target="_blank" href="https://selfcare-store-reactjs.netlify.app">https://selfcare-store-reactjs.netlify.app</a>
 
