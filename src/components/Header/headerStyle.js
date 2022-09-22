@@ -30,6 +30,7 @@ export const Headerbox = styled.header`
 
     nav div{
         position: relative;
+        cursor: pointer;
     }
 
     nav div img{

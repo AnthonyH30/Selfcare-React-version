@@ -49,6 +49,7 @@ export const Footercontainer = styled.footer`
         color: white;
         font-weight: 600;
         border-radius: 0px 5px 5px 0px;
+        cursor: pointer;
     }
 
     @media(max-width: 768px){

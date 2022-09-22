@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import bannerimage from "../assets/banner1.svg"
+import bannerimage from "../../assets/banner1.svg"
 
 export const Bannerbg = styled.section`
     margin-top: 80px;

@@ -1,9 +1,7 @@
 import React from "react";
 import { createGlobalStyle } from "styled-components";
-import Header from "./components/Header.jsx";
-import Banner from "./components/Banner.jsx";
-import Products from "./components/Products.jsx";
-import Footer from "./components/Footer.jsx";
+import HomePage from "./Pages/HomePage";
+
 
 const GlobalStyle = createGlobalStyle`
   *{
@@ -11,10 +9,6 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lato', sans-serif;
-  }
-
-  body{
-    width: 100vw;
   }
 `
 
@@ -24,10 +18,7 @@ export default class App extends React.Component{
     return(
       <div>
         <GlobalStyle/>
-        <Header/>
-        <Banner/>
-        <Products/>
-        <Footer/>
+        <HomePage/>
       </div>
     )
   }
