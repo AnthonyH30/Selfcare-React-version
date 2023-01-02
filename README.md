@@ -3,7 +3,7 @@ Technologies
 * React
 * Styled-components
 
-<img src="https://cdn.discordapp.com/attachments/773364102071975976/1059612764072579164/gudi.PNG" alt="imagem do projeto em mockup">
+<img src="https://cdn.discordapp.com/attachments/334770078069293056/1026898037160816761/selfcare-print.PNG" alt="imagem do projeto em mockup">
 
 ## How to use:
 git clone https://github.com/AnthonyH30/Selfcare-React-version.git <br/>
